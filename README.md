@@ -20,6 +20,7 @@
 <h3>Tecnologias utilizadas</h3> 
 <p>IDE: VS code</p>
 <p>Linguagem: HTML, CSS e Javascript</p>
+<p>Acesse: https://ismael-albuquerque.github.io/portfolio-simplificado/</p>
    
 </body>
 
